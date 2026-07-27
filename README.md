@@ -1,4 +1,4 @@
-# ⤷ ゛🇧🇷 ˎˊ˗ WELCOME .ᐟ.ᐟ
+# ⤷ ゛🇧🇷 ˎˊ˗ 'Entre outras mil, és tu, Brasil.' 🇧🇷 .ᐟ.ᐟ
 
 <p align="center">
   <img src="https://i.pinimg.com/1200x/26/04/d7/2604d71231611f1eba8942bc5f128fda.jpg" /> <p>
@@ -6,7 +6,7 @@
 	 <img src="https://pixelsafari.neocities.org/dividers/glittergreen.gif" width="1050">
 
 	
-<p align="left">
+<p align="center">
  <img src="https://media.discordapp.net/attachments/1324582682021335070/1531325129219641515/40_Sem_Titulo_20260727123909.png?ex=6a68cd29&is=6a677ba9&hm=68f5507146dbc43e85ba74e87365b65710d4b62bc67600fd178b9aff4d037bc5&=&format=webp&quality=lossless" width="400">
 
  <img src="https://64.media.tumblr.com/2230de1d2fd18903aff631389fe59528/567e4798ffdc249f-1c/s500x750/39eaf44f751d5c1f5aced69ff5492b0cf724c693.pnj" width="100">
