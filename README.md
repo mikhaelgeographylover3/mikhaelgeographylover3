@@ -2,8 +2,7 @@
 
 <p align="center">
   <img src="https://i.pinimg.com/1200x/26/04/d7/2604d71231611f1eba8942bc5f128fda.jpg" /> <p>
-<img src="https://i.pinimg.com/1200x/36/87/fe/3687fe4f9e369c60fefda69e2f8f59ac.jpg" /> <p>
-	<img src="https://media.discordapp.net/attachments/1528082113348505865/1531119729542955158/image.png?ex=6a680dde&is=6a66bc5e&hm=10bd699bc75932932a7c2d5b2cb80d5ce34efa775e354dbd4dd03d3d290aad04&=&format=webp&quality=lossless" /> <p>
+<img src="https://i.pinimg.com/1200x/36/87/fe/3687fe4f9e369c60fefda69e2f8f59ac.jpg" /> <p> <p>
  <img src="https://64.media.tumblr.com/42bc60e0035a7725db979eb4d003ba5e/5b5768b53aad21c8-04/s1280x1920/8ca309653d9a3cdf86761c80ea2d94e66888baa8.pnj" />
 </p>
 
@@ -17,6 +16,8 @@
 <img src="https://64.media.tumblr.com/42d1d8560944ab415160658431b8e695/e31136f9db7d00d9-67/s100x200/dc363697335f9ba2b60381d6ab6b4e890379ef3c.jpg" /> <img src="https://64.media.tumblr.com/a0311805182c193cf7fe82edc21bc0c2/e31136f9db7d00d9-a7/s100x200/32a79f1bd4b988ee583e2a319a1496468f7f57ae.jpg" /> <img src="https://64.media.tumblr.com/233bf684b2bfd6c19e92d561670fcaae/e31136f9db7d00d9-0a/s100x200/40b90cc6afba1589f58c4019efa70ad9f17db508.jpg" />
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img src="https://media.discordapp.net/attachments/1528082113348505865/1531119729542955158/image.png?ex=6a680dde&is=6a66bc5e&hm=10bd699bc75932932a7c2d5b2cb80d5ce34efa775e354dbd4dd03d3d290aad04&=&format=webp&quality=lossless" />
 
 ME AND MY FRIENDS! <3
 <p></p>
