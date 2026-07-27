@@ -2,13 +2,8 @@
 
 <p align="center">
   <img src="https://i.pinimg.com/1200x/26/04/d7/2604d71231611f1eba8942bc5f128fda.jpg" /> <p>
-<img src="https://i.pinimg.com/1200x/36/87/fe/3687fe4f9e369c60fefda69e2f8f59ac.jpg" /> <p> <p>
+<img src="https://i.pinimg.com/1200x/c5/50/81/c55081fc9c5f4117383d91bab699901d.jpg" /> <p> <p>
 	 <img src="https://pixelsafari.neocities.org/dividers/glittergreen.gif" width="1050">
-
-
-
-<p align="center">
-<img src="https://i.pinimg.com/1200x/c5/50/81/c55081fc9c5f4117383d91bab699901d.jpg" />
 
 	
 <p align="left">
@@ -34,7 +29,7 @@
  <img src="https://64.media.tumblr.com/7100c9400d39da151f80c0cbd023f1d9/581da0149023b545-2c/s100x200/66bd8c12fb6ac02004312d78d5e9f0773631fdfd.pnj" />
  <img src="https://64.media.tumblr.com/745fd88c63a83bbde4d4aa15df1ce6de/581da0149023b545-b7/s100x200/450d99a92e2eb3f403cee3e7b774a626f7269065.pnj" />
 
-<p></p>  <p align="center"> <img src="https://pixelsafari.neocities.org/dividers/more/itunes.png" />
+<p></p>  <p align="center"> <img src="https://pixelsafari.neocities.org/dividers/more/itunes.png" width="500">
 
 	 
 <table align="center">
