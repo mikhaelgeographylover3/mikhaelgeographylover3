@@ -34,18 +34,31 @@
   <img src="https://64.media.tumblr.com/b712259a472510a6f9df2559383a88c1/8281bb526947ea99-53/s100x200/3cbae76ce197b26705c48fe42d1564c72362e729.pnj" width="150">
    <img src="https://64.media.tumblr.com/dc55dde9ebf7e6dad69aa65f1e0a0cce/3f57e7a107f635af-bf/s100x200/8b6dae936a2caa1d796391f07976c50faed1292a.pnj" width="150">
 
+  <table align="center">
+  <tr>
+    <td valign="middle">
+      <img src="https://media.discordapp.net/attachments/1324582682021335070/1531360099434627234/1785175082014.png?ex=6a69967b&is=6a6844fb&hm=b9ffd9cf98357644fdd6a23ff45faba3d4af3d1a32c20642775c6adeb5a0419c&=&format=webp&quality=lossless" width="350">
+    </td>
+    <td valign="middle" width="350">
+
+──★ ̊🍋‍🟩. DNI if you are racist, xenophobic, homophobic, transphobic,
+      misogynistic, right-wing who supports traditional values or that supports extremist ideologies (ppl who larp this, pls dni too). I don't condone disgusting things like that.
+
+ <br><br>
+
+──★ ˙🍏 ̟ !! INT if you like countryballs\humans, history, politics, music,
+      national movies and war drama or anything about wars. These are my favorite subjects,
+      but I don't care if you want to talk about anything else,
+      just interact!
+
+ </td>
+  </tr>
+</table>
+
 <p></p>  <p align="center"> <img src="https://64.media.tumblr.com/cdc900a885844245b57dc34fc137bd83/bffd9988782c76d9-36/s400x600/85f67fbaa4c1a656ac1f3ebde5eecf69ea1dbfc2.gifv" width="800">
 <p align="center"> <img src="https://64.media.tumblr.com/39fb7ad51cf8cc0c008642780cc3ed04/3c45cd0dcec3c59e-f2/s1280x1920/ce9bc07cfbe37cdd672a0f5b81f277d652d8604c.pnj" width="800">
 
-	 
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-
-಄ DNI if you are racist, xenophobic, homophobic, transphobic. I don't condone disgusting things like that. ˙𐃷˙
-    </td>
-  </tr>
-</table>
+	
 
 <img src="https://i.pinimg.com/1200x/63/f9/21/63f921d5fcae09d84be6c99cc1ec5e8c.jpg" />
 <p align="center"><img src="https://media.discordapp.net/attachments/1324582682021335070/1531378602149548277/imagem_2026-07-27_161121242_1.png?ex=6a68fef6&is=6a67ad76&hm=97ec00d8abb10e64346ff5ca4721df74c460e89a9b7d7673edcfd0e619f18629&=&format=webp&quality=lossless&width=550&height=210" />
