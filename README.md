@@ -22,7 +22,7 @@
 </table>
 
  <p align="center">
- <img src="https://media.discordapp.net/attachments/1324582682021335070/1531329852446081195/imagem_2026-07-27_125710087.png?ex=6a68d18f&is=6a67800f&hm=872161e62061df964bdbb0d9b076290577e9c657706e95f6f5821a07a150fe3c&=&format=webp&quality=lossless" width="600">
+ <img src="https://media.discordapp.net/attachments/1324582682021335070/1531329852446081195/imagem_2026-07-27_125710087.png?ex=6a68d18f&is=6a67800f&hm=872161e62061df964bdbb0d9b076290577e9c657706e95f6f5821a07a150fe3c&=&format=webp&quality=lossless" width="550">
 <p></p>
  <p align="center">
  <img src="https://64.media.tumblr.com/e7011fc2af6671d4e354fa4ec10315bb/e6b0bce65cb901c8-d1/s100x200/e273f108712a3ad49c604fd62c5e70844fd7bbbf.jpg" width="150">
