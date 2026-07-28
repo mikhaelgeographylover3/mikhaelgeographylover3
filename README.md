@@ -58,9 +58,8 @@
 
 	
 
-<img src="https://i.pinimg.com/1200x/63/f9/21/63f921d5fcae09d84be6c99cc1ec5e8c.jpg" />
 <p align="center"><img src="https://media.discordapp.net/attachments/1324582682021335070/1531378602149548277/imagem_2026-07-27_161121242_1.png?ex=6a68fef6&is=6a67ad76&hm=97ec00d8abb10e64346ff5ca4721df74c460e89a9b7d7673edcfd0e619f18629&=&format=webp&quality=lossless&width=550&height=210" />
- 
+
  <table>
   <tr>
     <td valign="top">
@@ -80,7 +79,8 @@
 
 <img src="https://pixelsafari.neocities.org/dividers/piano.gif" width="1050">
 
-ME AND MY FRIENDS! <3
+<p align="center">
+<img src="https://media.discordapp.net/attachments/1324582682021335070/1531726738709544980/43_Sem_Titulo_20260728151450.png?ex=6a6a4330&is=6a68f1b0&hm=55fb0abbd2f6d1b7e319e95a9f577eb22cf0b0f66b162ac1ab2466596efd61e8&=&format=webp&quality=lossless" width="750">
 <p></p>
 <p align="center">
 <img src="https://media.discordapp.net/attachments/1441512330004529295/1527537442570375392/1784263601124944.JPG?ex=6a5b059a&is=6a59b41a&hm=231895b95fd3b3a1b8d055607209819a2fcac7cd08214edef05a531f8c0c47a4&=&format=webp" />
