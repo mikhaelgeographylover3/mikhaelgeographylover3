@@ -35,7 +35,7 @@
   <table align="center">
   <tr>
     <td valign="middle">
-      <img src="https://media.discordapp.net/attachments/1324582682021335070/1531360099434627234/1785175082014.png?ex=6a69967b&is=6a6844fb&hm=b9ffd9cf98357644fdd6a23ff45faba3d4af3d1a32c20642775c6adeb5a0419c&=&format=webp&quality=lossless" width="350">
+      <img src="https://media.discordapp.net/attachments/1324582682021335070/1532457943943876790/image.png?ex=6a6cec2d&is=6a6b9aad&hm=50c68ca6d88db621d6d692b2092a54f00d76b7ec64a6e6e8d17a82a6bcd5449b&=&format=webp&quality=lossless" width="350">
     </td>
     <td valign="middle" width="350">
 
@@ -58,17 +58,17 @@
 
 	
 
-<p align="center"><img src="https://media.discordapp.net/attachments/1324582682021335070/1531378602149548277/imagem_2026-07-27_161121242_1.png?ex=6a68fef6&is=6a67ad76&hm=97ec00d8abb10e64346ff5ca4721df74c460e89a9b7d7673edcfd0e619f18629&=&format=webp&quality=lossless&width=550&height=210" />
+<p align="center"><img src="https://media.discordapp.net/attachments/1324582682021335070/1532459156492255272/image.png?ex=6a6ced4e&is=6a6b9bce&hm=04860b563572f66804dfd9266bb95237e7670f36d38d851b5132c79a02caef08&=&format=webp&quality=lossless" />
 
  <table>
   <tr>
     <td valign="top">
-      <img src="https://media.discordapp.net/attachments/1324582682021335070/1531353422295470242/41_Sem_Titulo_20260727143124.png?ex=6a68e783&is=6a679603&hm=1030e5b421e8b76b8be5d0efcf8b2c598b4327f970c457a376b70b23d5204fe7&=&format=webp&quality=lossless" width="500">
+      <img src="https://media.discordapp.net/attachments/1324582682021335070/1532457988927787078/image.png?ex=6a6cec38&is=6a6b9ab8&hm=f14f31ba8b967981411261e372f6ac4b10ae457ea8f00eb3ee025fb31f3d8183&=&format=webp&quality=lossless&width=620&height=640" width="500">
     </td>
     <td valign="top">
       <img src="https://media.discordapp.net/attachments/1324582682021335070/1531374297099010160/imagem_2026-07-27_155430512.png?ex=6a68faf3&is=6a67a973&hm=427e9fd97fbed2c2ca7557122b7b0bc0b4896d36fb07d16600bd39a64a1ce2ae&=&format=webp&quality=lossless&width=1280&height=960" width="300">
       <br><br>
-      <img src="https://media.discordapp.net/attachments/1324582682021335070/1531374122586734632/imagem_2026-07-27_155320425_2.png?ex=6a68faca&is=6a67a94a&hm=062da54183846c093b10653055766deb152f5a1d0f9d91494ebf064fda976b4d&=&format=webp&quality=lossless&width=1280&height=960" width="300">
+      <img src="https://media.discordapp.net/attachments/1324582682021335070/1532457922766962849/image.png?ex=6a6cec28&is=6a6b9aa8&hm=29e9b87946217a718c10f1c40d4780edb9daff94e037095189eaf9149285db49&=&format=webp&quality=lossless&width=768&height=576" width="300">
     </td>
   </tr>
 </table>
