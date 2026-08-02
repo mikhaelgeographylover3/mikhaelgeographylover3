@@ -54,6 +54,7 @@
 </table>
 
 <p></p>  <p align="center"> <img src="https://64.media.tumblr.com/cdc900a885844245b57dc34fc137bd83/bffd9988782c76d9-36/s400x600/85f67fbaa4c1a656ac1f3ebde5eecf69ea1dbfc2.gifv" width="800">
+	<p align="center"> <img src="https://media.discordapp.net/attachments/1528082113348505865/1531119729542955158/image.png?ex=6a6ff6de&is=6a6ea55e&hm=d9c341e141202dcd5d85f73073b25522287547b2e59503f8c1cf0d8ebbf4f721&=&format=webp&quality=lossless" width="800">
 <p align="center"> <img src="https://64.media.tumblr.com/39fb7ad51cf8cc0c008642780cc3ed04/3c45cd0dcec3c59e-f2/s1280x1920/ce9bc07cfbe37cdd672a0f5b81f277d652d8604c.pnj" width="800">
 
 	
