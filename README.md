@@ -1,7 +1,7 @@
 # ⤷ ゛🇧🇷 ˎˊ˗ 'Entre outras mil, és tu, Brasil.' 🇧🇷 .ᐟ.ᐟ
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/26/04/d7/2604d71231611f1eba8942bc5f128fda.jpg" /> <p>
+  <img src="https://i.pinimg.com/1200x/c5/50/81/c55081fc9c5f4117383d91bab699901d.jpg" /> <p>
 	 <img src="https://pixelsafari.neocities.org/dividers/glittergreen.gif" width="1050">
 
 	
@@ -35,7 +35,7 @@
   <table align="center">
   <tr>
     <td valign="middle">
-      <img src="https://media.discordapp.net/attachments/1324582682021335070/1532457943943876790/image.png?ex=6a6cec2d&is=6a6b9aad&hm=50c68ca6d88db621d6d692b2092a54f00d76b7ec64a6e6e8d17a82a6bcd5449b&=&format=webp&quality=lossless" width="350">
+      <img src="https://media.discordapp.net/attachments/1324582682021335070/1533462590401810442/image.png?ex=6a7093d3&is=6a6f4253&hm=2440cee8b5f1a57ef482a187131b95dfe8417c0135316bde007ac6605573868b&=&format=webp&quality=lossless" width="350">
     </td>
     <td valign="middle" width="350">
 
@@ -59,25 +59,6 @@
 	
 
 <p align="center"><img src="https://media.discordapp.net/attachments/1324582682021335070/1532459156492255272/image.png?ex=6a6ced4e&is=6a6b9bce&hm=04860b563572f66804dfd9266bb95237e7670f36d38d851b5132c79a02caef08&=&format=webp&quality=lossless" />
-
- <table>
-  <tr>
-    <td valign="top">
-      <img src="https://media.discordapp.net/attachments/1324582682021335070/1532457988927787078/image.png?ex=6a6cec38&is=6a6b9ab8&hm=f14f31ba8b967981411261e372f6ac4b10ae457ea8f00eb3ee025fb31f3d8183&=&format=webp&quality=lossless&width=620&height=640" width="500">
-    </td>
-    <td valign="top">
-      <img src="https://media.discordapp.net/attachments/1324582682021335070/1531374297099010160/imagem_2026-07-27_155430512.png?ex=6a68faf3&is=6a67a973&hm=427e9fd97fbed2c2ca7557122b7b0bc0b4896d36fb07d16600bd39a64a1ce2ae&=&format=webp&quality=lossless&width=1280&height=960" width="300">
-      <br><br>
-      <img src="https://media.discordapp.net/attachments/1324582682021335070/1532457922766962849/image.png?ex=6a6cec28&is=6a6b9aa8&hm=29e9b87946217a718c10f1c40d4780edb9daff94e037095189eaf9149285db49&=&format=webp&quality=lossless&width=768&height=576" width="300">
-    </td>
-  </tr>
-</table>
-
- <img src="https://pixelsafari.neocities.org/dividers/glittergreen.gif" width="1050">
-
-<img src="https://media.discordapp.net/attachments/1528082113348505865/1531119729542955158/image.png?ex=6a680dde&is=6a66bc5e&hm=10bd699bc75932932a7c2d5b2cb80d5ce34efa775e354dbd4dd03d3d290aad04&=&format=webp&quality=lossless" />
-
-<img src="https://pixelsafari.neocities.org/dividers/piano.gif" width="1050">
 
 <p align="center">
 <img src="https://media.discordapp.net/attachments/1324582682021335070/1531726738709544980/43_Sem_Titulo_20260728151450.png?ex=6a6a4330&is=6a68f1b0&hm=55fb0abbd2f6d1b7e319e95a9f577eb22cf0b0f66b162ac1ab2466596efd61e8&=&format=webp&quality=lossless" width="750">
